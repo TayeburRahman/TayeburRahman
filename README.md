@@ -12,7 +12,7 @@ Skills:   JavaScript, Es6, React, React Router, Html, CSS, Bootstrap5, React Boo
 - 📫 How to reach me: tayebrayhan101@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TayeburRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-tayebur-rahman-rayhan-95025b1b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17533112/tayebrayhan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayeburRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tayebur-rahman-rayhan-95025b1b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/TayeburRahman)](https://github.com/anuraghazra/github-readme-stats)
 
