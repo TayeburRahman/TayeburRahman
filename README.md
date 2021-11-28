@@ -14,10 +14,10 @@ Skills:   JavaScript, Es6, React, React Router, Html, CSS, Bootstrap5, React Boo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayeburRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tayebur-rahman-rayhan-95025b1b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/TayeburRahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/TayeburRahman&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TayeburRahman&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/TayeburRahman)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TayeburRahman)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/TayeburRahman)  
+![Profile views](https://gpvc.arturio.dev/TayeburRahman)  
