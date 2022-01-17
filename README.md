@@ -1,6 +1,6 @@
 ##                                                                    Hi  👋, I'm Tayebur Rahman
 ####                                                                         Web Developer
-![Web Developer](https://i.ibb.co/DLgvVbC/CLASS-OF-2025.png)
+![Web Developer](https://i.ibb.co/p1Dz92C/CLASS-OF-2025-1.png)
 
 I am a  Junior web developer and trying to learn the back-end as well. I did  20+ projects with React, Node js and MongoDB. In one word I love MERN stack development.
 
