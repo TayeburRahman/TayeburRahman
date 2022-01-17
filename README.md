@@ -2,9 +2,9 @@
 ####                                                                         Web Developer
 ![Web Developer](https://i.ibb.co/p1Dz92C/CLASS-OF-2025-1.png)
 
-I am a  Junior web developer and trying to learn the back-end as well. I did  20+ projects with React, Node js and MongoDB. In one word I love MERN stack development.
+Hi, I am a Software Engineer. I am a Bsc Computer Science Graduate from University Of Global Village. I'm an expert in Full Stack Web Development, Web Designing & MERN stack Developer.
 
-Skills:   JavaScript, Es6, React, React Router, Html, CSS, Bootstrap5, React Bootstrap, React Hook Form, NodeJs, Mongo DB, ExpressJs, C++, Material Ui, Tailwind CSS,Heroku, Netlify, Firebase and Wordpress
+Skills:   JavaScript, Es6, React, React Router, Html, CSS, Bootstrap5, React Bootstrap, React Hook Form, NodeJs, Mongo DB, ExpressJs,Material Ui, Tailwind CSS,Heroku, Netlify, Firebase,C++, mysql and Wordpress
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
