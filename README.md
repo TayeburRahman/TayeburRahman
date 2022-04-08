@@ -1,6 +1,6 @@
 ##                                                                    Hi  👋, I'm Tayebur Rahman
 ####                                                                         Web Developer
-![Web Developer](https://i.ibb.co/xhVC3kn/CLASS-OF-2025-2.png)
+![Web Developer]( )
 
 Hi, I am a Software Engineer. I am a Bsc Computer Science Graduate from University Of Global Village. I'm an expert in Full Stack Web Development, Web Designing & MERN stack Developer.
 
