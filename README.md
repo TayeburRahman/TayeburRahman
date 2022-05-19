@@ -2,9 +2,10 @@
 ####                                                                         Web Developer
 <!-- ![Web Developer]( ) -->
 
-Hi, I am a Software Engineer. I am a Bsc Computer Science Graduate from University Of Global Village. I'm an expert in Full Stack Web Development, Web Designing & MERN stack Developer.
+Hi, I am a Software Engineer. I doing to MERN stack & Full Stack Web Developmen
 
-Skills:   JavaScript, Es6, React, React Router, Html, CSS, Bootstrap5, React Bootstrap, React Hook Form, NodeJs, Mongo DB, ExpressJs,Material Ui, Tailwind CSS,Heroku, Netlify, Firebase,C++, mysql and Wordpress
+Skills & Technologies:
+JavaScript | NodeJS | Firebase | ReactJS | ReduxJS| ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
