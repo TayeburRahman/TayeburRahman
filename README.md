@@ -1,8 +1,8 @@
-##                                                                    Hi  👋, I'm Tayebur Rahman AP
+##                                                                    Hi  👋, I'm Tayebur Rahman
 ####                                                                         Web Developer
 <!-- ![Web Developer]( ) -->
 
-Hi, I am a Software Engineer. I doing to MERN stack & Full Stack Web Developmen
+Hi, I doing to MERN stack & Full Stack Web Developmen
 
 Skills & Technologies:
 JavaScript | NodeJS | Firebase | ReactJS | ReduxJS| ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
