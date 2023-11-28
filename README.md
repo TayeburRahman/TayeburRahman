@@ -2,12 +2,12 @@
 ####                                                                         Web Developer
 <!-- ![Web Developer]( ) -->
 
-Hi, I doing to MERN stack & Full Stack Web Developmen
+Hi, I am a professional React js developer, also doing to MERN stack & Full Stack Web Development.
 
 Skills & Technologies:
-JavaScript | NodeJS | Firebase | ReactJS | ReduxJS| ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
+JavaScript | ReactJS | ReduxJS| NodeJS | Firebase | ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I'm a highly motivated and energetic individual eager to learn new technologies.
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: tayebrayhan101@gmail.com 
