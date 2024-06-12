@@ -3,10 +3,10 @@
 ####                                                                         Web Developer
 <!-- ![Web Developer]( ) -->
 
-Hi, I am a professional React js developer, also doing to MERN stack & Full Stack Web Development.
+Hi, I am a professional web developer developer, also doing to MERN stack & Full Stack Web Development.
 
 Skills & Technologies:
-JavaScript | ReactJS | ReduxJS| NodeJS | Firebase | ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
+JavaScript | ReactJS | ReduxJS | NextJS | ViewJS | NodeJS | Firebase | ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
 
 - 🌱 I'm a highly motivated and energetic individual eager to learn new technologies.
 - 👯 I’m looking to collaborate on GitHub 
