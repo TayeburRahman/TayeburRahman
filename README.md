@@ -23,4 +23,3 @@ JavaScript | ReactJS | ReduxJS | NextJS | ViewJS | NodeJS | Firebase | ExpressJS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TayeburRahman)  
 
 ![Profile views](https://gpvc.arturio.dev/TayeburRahman)  
-//
