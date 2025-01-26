@@ -6,7 +6,7 @@
 Hi, I am a professional Software developer with expertise in Full Stack Development. I enjoy building dynamic, user-friendly web applications and constantly strive to expand my knowledge of modern technologies.
 
 My Toolkit & Technologies:
-JavaScript | ReactJS | ReduxJS | NextJS | ViewJS | NodeJS | Firebase | ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | Testing | Git | Github | Object-oriented programming
+JavaScript | JavaScript | ReactJS | ReduxJS | NextJS | ViewJS | NodeJS | Firebase | ExpressJS | RESTful APIs | JSON parsing| JWT | Postman | MongoDB | MySQL | C++ | Testing | Git | Github | Object-oriented programming
 
 - 🌱 I'm a highly motivated and energetic individual eager to learn new technologies.
 - 👯 I’m looking to collaborate on GitHub 
