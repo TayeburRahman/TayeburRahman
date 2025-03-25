@@ -1,31 +1,46 @@
-## Hi 👋, I'm Tayebur Rahman
-#### Software Developer
+## **Hi 👋, I'm Tayebur Rahman**  
+#### 🚀 **Full Stack Software Developer | Problem Solver | Tech Enthusiast**  
 
-Hi, I am a professional Software developer with expertise in Full Stack Development. I enjoy building dynamic, user-friendly web applications and constantly strive to expand my knowledge of modern technologies.
+I am a passionate **Full Stack Developer** with a deep love for building high-performance, scalable, and user-friendly applications. With expertise in both frontend and backend technologies, I specialize in crafting seamless digital experiences that solve real-world problems.  
 
-### **My Toolkit & Technologies**
-JavaScript | ReactJS | ReduxJS | NextJS | VueJS | NodeJS | Firebase | ExpressJS | RESTful APIs | JSON parsing | JWT | Postman | MongoDB | MySQL | C++ | Testing | Git | GitHub | Object-oriented programming
-
-- 🌱 I'm a highly motivated and energetic individual eager to learn new technologies.
-- 👯 I’m looking to collaborate on GitHub.
-- 💬 Ask me about Web Development.
-- 📫 How to reach me: tayebrayhan101@gmail.com.
-- 📞 Contact me on WhatsApp: [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20">](https://wa.me/8801732917294)
+I thrive on solving complex challenges and constantly expanding my knowledge in modern technologies to stay ahead in the fast-paced world of development.  
 
 ---
 
-### **📊 GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TayeburRahman&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TayeburRahman)  
-
-![Profile views](https://gpvc.arturio.dev/TayeburRahman)  
+### **🔧 My Tech Stack & Expertise**  
+💻 **Frontend:** JavaScript | ReactJS | ReduxJS | NextJS | VueJS | Tailwind CSS | Bootstrap  
+⚙️ **Backend:** NodeJS | ExpressJS | Firebase | RESTful APIs | JSON | JWT Authentication  
+🗄️ **Databases:** MongoDB | MySQL | Firebase Firestore  
+🛠️ **Tools & DevOps:** Git | GitHub | Postman | Docker | Nginx | Linux | VS Code  
+🚀 **Other Skills:** C++ | Object-Oriented Programming (OOP) | Testing | Problem Solving  
 
 ---
 
-### **Connect with Me**
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/TayeburRahman) 
+### **🌟 About Me**  
+✅ Passionate about **building high-quality, efficient, and scalable applications**.  
+✅ I love **learning new technologies** and staying up to date with industry trends.  
+✅ Always open to **collaborating on interesting projects** and contributing to open-source.  
+✅ A strong believer in **continuous improvement** and writing **clean, maintainable code**.  
+
+---
+
+### **📬 Let's Connect**  
+📩 **Email:** tayebrayhan101@gmail.com  
+📞 **WhatsApp:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20">](https://wa.me/8801732917294) **+880 1732917294**  
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
+
+---
+
+### **📊 GitHub Stats**  
+🔥 **Languages I Use:**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+🚀 **My Contributions & Activity:**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TayeburRahman&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TayeburRahman)  
+
+---
+
+💡 *Let's connect and build something amazing together!* 🚀  
