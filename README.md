@@ -12,15 +12,8 @@ I thrive on solving complex challenges and constantly expanding my knowledge in 
 🛠️ **Tools & DevOps:** Git | GitHub | Postman | Docker | AWS | Nginx | Linux | VS Code  
 🚀 **Other Skills:** C++ | Object-Oriented Programming (OOP) | Testing | Problem Solving  
 
----
-### **🌟 About Me**  
-✅ Passionate about **building high-quality, efficient, and scalable applications**.  
-✅ I love **learning new technologies** and staying up to date with industry trends.  
-✅ Always open to **collaborating on interesting projects** and contributing to open-source.  
-✅ A strong believer in **continuous improvement** and writing **clean, maintainable code**.  
-
----
-### **📬 Let's Connect**  
+--- 
+### **📬 Connect Me**  
 📩 **Email:** tayebrayhan101@gmail.com  
 📞 **WhatsApp:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20">](https://wa.me/8801732917294) **+880 1732917294**  
 
