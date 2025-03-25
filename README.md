@@ -13,7 +13,7 @@ I thrive on solving complex challenges and constantly expanding my knowledge in 
 📩 **Email:** tayebrayhan101@gmail.com  
 📞 **WhatsApp:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20">](https://wa.me/8801732917294) **+880 1732917294**  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
 
 ---
 ### **📊 GitHub Stats**  
