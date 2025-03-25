@@ -7,14 +7,7 @@ I thrive on solving complex challenges and constantly expanding my knowledge in 
 ---
 ### **🔧 My Tech Stack & Expertise**  
 💻 **Frontend:** JavaScript | TypeScript | ReactJS | ReduxJS | NextJS | VueJS | Tailwind CSS | Bootstrap | MUI ⚙️ **Backend:** NodeJS | ExpressJS | Firebase | RESTful APIs | JSON | JWT Authentication  🗄️ **Databases:** MongoDB | MySQL | Firebase Firestore  🛠️ **Tools & DevOps:** Git | GitHub | Postman | Docker | AWS | Nginx | Linux | VS Code  🚀 **Other Skills:** C++ | Object-Oriented Programming (OOP) | Testing | Problem Solving  
-
----
-### **🌟 About Me**  
-✅ Passionate about **building high-quality, efficient, and scalable applications**.  
-✅ I love **learning new technologies** and staying up to date with industry trends.  
-✅ Always open to **collaborating on interesting projects** and contributing to open-source.  
-✅ A strong believer in **continuous improvement** and writing **clean, maintainable code**.  
-
+ 
 --- 
 ### **🌍 Connect With Me**  
 📩 **Email:** tayebrayhan101@gmail.com  
