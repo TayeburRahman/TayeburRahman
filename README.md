@@ -16,7 +16,7 @@ I thrive on solving complex challenges and constantly expanding my knowledge in 
 ✅ A strong believer in **continuous improvement** and writing **clean, maintainable code**.  
 
 --- 
-### **🌍 Connect Me**  
+### **🌍 Connect With Me**  
 📩 **Email:** tayebrayhan101@gmail.com  
 📞 **WhatsApp:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20">](https://wa.me/8801732917294) **+880 1732917294**  
 
