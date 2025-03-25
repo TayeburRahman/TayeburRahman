@@ -8,12 +8,19 @@ I thrive on solving complex challenges and constantly expanding my knowledge in 
 ### **🔧 My Tech Stack & Expertise**  
 💻 **Frontend:** JavaScript | TypeScript | ReactJS | ReduxJS | NextJS | VueJS | Tailwind CSS | Bootstrap | MUI ⚙️ **Backend:** NodeJS | ExpressJS | Firebase | RESTful APIs | JSON | JWT Authentication  🗄️ **Databases:** MongoDB | MySQL | Firebase Firestore  🛠️ **Tools & DevOps:** Git | GitHub | Postman | Docker | AWS | Nginx | Linux | VS Code  🚀 **Other Skills:** C++ | Object-Oriented Programming (OOP) | Testing | Problem Solving  
 
+---
+### **🌟 About Me**  
+✅ Passionate about **building high-quality, efficient, and scalable applications**.  
+✅ I love **learning new technologies** and staying up to date with industry trends.  
+✅ Always open to **collaborating on interesting projects** and contributing to open-source.  
+✅ A strong believer in **continuous improvement** and writing **clean, maintainable code**.  
+
 --- 
-### **📬 Connect Me**  
+### **🌍 Connect Me**  
 📩 **Email:** tayebrayhan101@gmail.com  
 📞 **WhatsApp:** [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="20">](https://wa.me/8801732917294) **+880 1732917294**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stack Overflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
 
 ---
 ### **📊 GitHub Stats**  
