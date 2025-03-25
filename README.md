@@ -16,7 +16,7 @@ JavaScript | JavaScript | ReactJS | ReduxJS | NextJS | ViewJS | NodeJS | Firebas
 I thrive on solving problems and learning new tech. Collaboration and innovation drive me! Let's build something amazing together!
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayeburRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-tayebur-rahman-rayhan-95025b1b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayeburRahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17533112/tayebrayhan)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman)](https://github.com/anuraghazra/github-readme-stats)
 
