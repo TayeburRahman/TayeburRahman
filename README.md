@@ -7,8 +7,10 @@ I thrive on solving complex challenges and constantly expanding my knowledge in 
 ---
 ### **🔧 My Tech Stack & Expertise**  
 💻 **Frontend:** JavaScript | TypeScript | ReactJS | ReduxJS | NextJS | VueJS | Tailwind CSS | Bootstrap | MUI 
-⚙️ **Backend:** NodeJS | ExpressJS | Firebase | RESTful APIs | JSON | JWT Authentication  🗄️ **Databases:** MongoDB | MySQL | Firebase Firestore | PostgreSQL | Supabase | SQL  
-🛠️ **Tools & DevOps:** Git | GitHub | Postman | Docker | AWS | Nginx | Linux | VS Code  🚀 **Other Skills:** C++ | Object-Oriented Programming (OOP) | Testing | Problem Solving  
+⚙️ **Backend:** NodeJS | ExpressJS | Firebase | RESTful APIs | JSON | JWT Authentication  
+🗄️ **Databases:** MongoDB | MySQL | Firebase Firestore | PostgreSQL | Supabase | SQL  
+🛠️ **Tools & DevOps:** Git | GitHub | Postman | Docker | AWS | Nginx | Linux | VS Code  
+🚀 **Other Skills:** C++ | Python | Object-Oriented Programming (OOP) | Testing | Problem Solving  
  
 --- 
 ### **🌍 Connect With Me**  
