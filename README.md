@@ -13,20 +13,31 @@ I thrive on solving complex problems and continuously learning modern technologi
 #### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-1f2937?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-1f2937?style=flat&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-1f2937?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/Java-1f2937?style=flat&logo=openjdk)
+![C#](https://img.shields.io/badge/C%23-1f2937?style=flat&logo=csharp) 
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript)
-![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat&logo=dart)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript) 
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat&logo=go)
 
 
 #### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white), ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white), ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white), ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white), ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white), ![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-FF6F61?style=for-the-badge)
+![React](https://img.shields.io/badge/React-1f2937?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-1f2937?style=flat&logo=vue.js)
+![Redux](https://img.shields.io/badge/Redux-1f2937?style=flat&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1f2937?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1f2937?style=flat&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/Material_UI-1f2937?style=flat&logo=mui)
+![Ant Design](https://img.shields.io/badge/Ant_Design-1f2937?style=flat&logo=antdesign)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-1f2937?style=flat)
 
 #### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white), ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge), ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge), ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge), ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-1f2937?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-1f2937?style=flat)
+![JWT](https://img.shields.io/badge/JWT-1f2937?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-1f2937?style=flat&logo=socket.io)
+
 
 #### 📱 Mobile & App Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
