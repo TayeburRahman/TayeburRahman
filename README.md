@@ -11,7 +11,16 @@ I thrive on solving complex problems and continuously learning modern technologi
 ### 🛠️ Technologies & Skills
 
 #### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white), ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white), ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-1f2937?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-1f2937?style=flat&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-1f2937?style=flat&logo=csharp)
+![Java](https://img.shields.io/badge/Java-1f2937?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat&logo=dart)
+![Go](https://img.shields.io/badge/Go-1f2937?style=flat&logo=go)
+
 
 #### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white), ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white), ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white), ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white), ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white), ![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-FF6F61?style=for-the-badge)
