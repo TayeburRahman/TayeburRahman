@@ -10,7 +10,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 
 ### 🛠️ Technologies & Skills
 
-#### 💻 Programming Languages
+#### Programming Languages
 ![C](https://img.shields.io/badge/C-1f2937?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-1f2937?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-1f2937?style=flat&logo=csharp) 
@@ -20,7 +20,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat&logo=go)
 
 
-#### 🌐 Frontend Development
+#### Frontend Development
 ![React](https://img.shields.io/badge/React-1f2937?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat&logo=nextdotjs)
 ![Vue.js](https://img.shields.io/badge/Vue.js-1f2937?style=flat&logo=vue.js)
@@ -31,7 +31,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![Ant Design](https://img.shields.io/badge/Ant_Design-1f2937?style=flat&logo=antdesign)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-1f2937?style=flat)
 
-#### ⚙️ Backend Development
+#### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-1f2937?style=flat)
 ![NestJS](https://img.shields.io/badge/NestJS-1f2937?style=flat&logo=nestjs) 
@@ -48,10 +48,10 @@ I thrive on solving complex problems and continuously learning modern technologi
 
 
 
-#### 📱 Mobile & App Development
+#### Mobile & App Development
 ![React Native](https://img.shields.io/badge/React_Native-1f2937?style=flat&logo=react)
 
-#### 🗄️ Databases & ORMs
+#### Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat&logo=mysql)
@@ -59,14 +59,14 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=flat&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-1f2937?style=flat&logo=supabase) 
 
-#### 🤖 Machine Learning & NLP (Intermediate)
+#### Machine Learning & NLP (Intermediate)
 ![AI](https://img.shields.io/badge/AI-1f2937?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-1f2937?style=flat)
 ![Chatbot](https://img.shields.io/badge/Chatbot-1f2937?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat)
 ![Weaviate](https://img.shields.io/badge/Weaviate-1f2937?style=flat)
 
-#### 🛠️ DevOps & Tools
+#### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-1f2937?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat&logo=githubactions)
