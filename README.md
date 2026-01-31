@@ -56,10 +56,12 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat)
 ![Weaviate](https://img.shields.io/badge/Weaviate-1f2937?style=flat)
 #### DevOps & Tools
+#### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-1f2937?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat&logo=githubactions)
+![Nginx](https://img.shields.io/badge/Nginx-1f2937?style=flat&logo=nginx)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1f2937?style=flat&logo=digitalocean)
 ![AWS](https://img.shields.io/badge/AWS-1f2937?style=flat&logo=amazonaws)
 ![VPS](https://img.shields.io/badge/VPS-1f2937?style=flat)
