@@ -49,7 +49,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 
 
 #### 📱 Mobile & App Development
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-1f2937?style=flat&logo=react)
 
 #### 🗄️ Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat&logo=mongodb)
@@ -77,16 +77,11 @@ I thrive on solving complex problems and continuously learning modern technologi
 ---
 
 ### 🌍 Connect With Me
-[![Email](https://img.shields.io/badge/Email-1f2937?style=flat&logo=gmail)](mailto:tayebrayhan101@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1f2937?style=flat&logo=whatsapp)](https://wa.me/8801732917294)
+[![Email tayebrayhan101@gmail.com](https://img.shields.io/badge/Email-1f2937?style=flat&logo=gmail)](mailto:tayebrayhan101@gmail.com)
+[![WhatsApp 8801732917294](https://img.shields.io/badge/WhatsApp-1f2937?style=flat&logo=whatsapp)](https://wa.me/8801732917294)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat&logo=linkedin)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1f2937?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17533112/tayebrayhan)
 
-
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayeburRahman&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TayeburRahman&theme=radical)
-
+ 
 
 💡 *Let’s connect and build something amazing together!* 🚀
