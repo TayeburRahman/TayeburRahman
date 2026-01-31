@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tayebur Rahman
+ ## 👋 Hi, I'm Tayebur Rahman
 #### 🚀 Full Stack Software Developer | Problem Solver | Tech Enthusiast
 
 I’m a passionate **Full Stack Developer** with a knack for building **high-performance, scalable, and user-friendly applications**.  
@@ -18,7 +18,6 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript) 
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat&logo=go)
-
 
 #### Frontend Development
 ![React](https://img.shields.io/badge/React-1f2937?style=flat&logo=react)
@@ -46,8 +45,6 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![Stripe](https://img.shields.io/badge/Stripe-1f2937?style=flat&logo=stripe)
 ![PayPal](https://img.shields.io/badge/PayPal-1f2937?style=flat&logo=paypal)
 
-
-
 #### Mobile & App Development
 ![React Native](https://img.shields.io/badge/React_Native-1f2937?style=flat&logo=react)
 
@@ -74,7 +71,6 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![AWS](https://img.shields.io/badge/AWS-1f2937?style=flat&logo=amazonaws)
 ![VPS](https://img.shields.io/badge/VPS-1f2937?style=flat)
 ![cPanel](https://img.shields.io/badge/cPanel-1f2937?style=flat&logo=cpanel)
----
 
 ### 🌍 Connect With Me
 [![Email](https://img.shields.io/badge/Email-1f2937?style=flat&logo=gmail)](mailto:tayebrayhan101@gmail.com)
@@ -83,8 +79,5 @@ I thrive on solving complex problems and continuously learning modern technologi
 **+880 1732 917294**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat&logo=linkedin)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1f2937?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17533112/tayebrayhan)
-
-
- 
 
 💡 *Let’s connect and build something amazing together!* 🚀
