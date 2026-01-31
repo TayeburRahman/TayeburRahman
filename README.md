@@ -18,6 +18,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript) 
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat&logo=go)
+
 #### Frontend Development
 ![React](https://img.shields.io/badge/React-1f2937?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat&logo=nextdotjs)
@@ -28,6 +29,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![Material UI](https://img.shields.io/badge/Material_UI-1f2937?style=flat&logo=mui)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-1f2937?style=flat&logo=antdesign)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-1f2937?style=flat)
+
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-1f2937?style=flat)
@@ -72,10 +74,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 
 ### 🌍 Connect With Me
 [![Email](https://img.shields.io/badge/Email-1f2937?style=flat&logo=gmail)](mailto:tayebrayhan101@gmail.com)
-**tayebrayhan101@gmail.com**
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1f2937?style=flat&logo=whatsapp)](https://wa.me/8801732917294)
-**+880 1732 917294**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat&logo=linkedin)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1f2937?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17533112/tayebrayhan)
+**tayebrayhan101@gmail.com** [![WhatsApp](https://img.shields.io/badge/WhatsApp-1f2937?style=flat&logo=whatsapp)](https://wa.me/8801732917294)
+**+880 1732 917294** [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat&logo=linkedin)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1f2937?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17533112/tayebrayhan)
 
 💡 *Let’s connect and build something amazing together!* 🚀
