@@ -34,33 +34,60 @@ I thrive on solving complex problems and continuously learning modern technologi
 #### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-1f2937?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-1f2937?style=flat&logo=nestjs) 
 ![REST API](https://img.shields.io/badge/REST_API-1f2937?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-1f2937?style=flat&logo=graphql)
 ![JWT](https://img.shields.io/badge/JWT-1f2937?style=flat)
+![OAuth](https://img.shields.io/badge/OAuth-1f2937?style=flat)
 ![Socket.io](https://img.shields.io/badge/Socket.io-1f2937?style=flat&logo=socket.io)
+![WebSockets](https://img.shields.io/badge/WebSockets-1f2937?style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-1f2937?style=flat&logo=prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-1f2937?style=flat)
+![Stripe](https://img.shields.io/badge/Stripe-1f2937?style=flat&logo=stripe)
+![PayPal](https://img.shields.io/badge/PayPal-1f2937?style=flat&logo=paypal)
+
 
 
 #### 📱 Mobile & App Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🗄️ Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black), ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white), ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge), ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1f2937?style=flat&logo=microsoftsqlserver)
+![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-1f2937?style=flat&logo=supabase) 
 
 #### 🤖 Machine Learning & NLP (Intermediate)
-![AI](https://img.shields.io/badge/AI-FF4081?style=for-the-badge), ![NLP](https://img.shields.io/badge/NLP-673AB7?style=for-the-badge), ![Chatbot](https://img.shields.io/badge/Chatbot-00BCD4?style=for-the-badge), ![RAG](https://img.shields.io/badge/RAG-FFC107?style=for-the-badge), ![Weaviate](https://img.shields.io/badge/Weaviate-3B82F6?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-1f2937?style=flat)
+![NLP](https://img.shields.io/badge/NLP-1f2937?style=flat)
+![Chatbot](https://img.shields.io/badge/Chatbot-1f2937?style=flat)
+![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat)
+![Weaviate](https://img.shields.io/badge/Weaviate-1f2937?style=flat)
 
 #### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white), ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white), ![VPS](https://img.shields.io/badge/VPS-6C63FF?style=for-the-badge), ![cPanel](https://img.shields.io/badge/cPanel-FB5200?style=for-the-badge&logo=cpanel&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-1f2937?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat&logo=githubactions)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1f2937?style=flat&logo=digitalocean)
+![AWS](https://img.shields.io/badge/AWS-1f2937?style=flat&logo=amazonaws)
+![VPS](https://img.shields.io/badge/VPS-1f2937?style=flat)
+![cPanel](https://img.shields.io/badge/cPanel-1f2937?style=flat&logo=cpanel)
 ---
 
 ### 🌍 Connect With Me
-📩 **Email:** tayebrayhan101@gmail.com  📞 **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801732917294) **+880 1732917294**  
+[![Email](https://img.shields.io/badge/Email-1f2937?style=flat&logo=gmail)](mailto:tayebrayhan101@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1f2937?style=flat&logo=whatsapp)](https://wa.me/8801732917294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat&logo=linkedin)](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1f2937?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/17533112/tayebrayhan)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tayebur-rahman-95025b1b8)  🔗 [Stack Overflow](https://stackoverflow.com/users/17533112/tayebrayhan)  
 
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayeburRahman&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TayeburRahman&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburRahman&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayeburRahman&show_icons=true&theme=radical) 
+
 
 💡 *Let’s connect and build something amazing together!* 🚀
