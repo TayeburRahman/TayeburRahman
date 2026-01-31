@@ -56,6 +56,7 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat)
 ![Weaviate](https://img.shields.io/badge/Weaviate-1f2937?style=flat)
 #### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-1f2937?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-1f2937?style=flat&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat&logo=githubactions)
