@@ -12,7 +12,6 @@ I thrive on solving complex problems and continuously learning modern technologi
 #### Programming Languages
 ![C](https://img.shields.io/badge/C-1f2937?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-1f2937?style=flat&logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-1f2937?style=flat&logo=csharp) 
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat&logo=typescript) 
