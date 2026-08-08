@@ -40,12 +40,13 @@ I thrive on solving complex problems and continuously learning modern technologi
 ![PayPal](https://img.shields.io/badge/PayPal-1f2937?style=flat&logo=paypal)
 #### Mobile & App Development
 ![React Native](https://img.shields.io/badge/React_Native-1f2937?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat\&logo=flutter)
 #### Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-1f2937?style=flat&logo=microsoftsqlserver)
-![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=flat&logo=firebase) 
 ![Supabase](https://img.shields.io/badge/Supabase-1f2937?style=flat&logo=supabase) 
 #### Machine Learning & NLP (Intermediate)
 ![AI](https://img.shields.io/badge/AI-1f2937?style=flat)
